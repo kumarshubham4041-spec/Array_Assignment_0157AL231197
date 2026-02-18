@@ -7,4 +7,4 @@ DSA Array Questions Assignment - Python
 
 ### Completed Questions
 1.Reverse an array
-2. Find MAX and MIN element of an array
+2.Find MAX and MIN element of an array
