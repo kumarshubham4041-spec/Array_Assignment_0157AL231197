@@ -1,6 +1,6 @@
 DSA Array Questions Assignment - Python
 
-## Name : Shubham Kumar_0157AL231197
+## Name : Shubham Kumar
 ## Subject: DSA
 ## Topic :Arrays
 
