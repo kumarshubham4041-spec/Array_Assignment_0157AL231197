@@ -11,3 +11,5 @@ DSA Array Questions Assignment - Python
 2.Find MAX and MIN element of an array
 
 3.Sum of elements in an array
+
+4. Second Largest element in an array
