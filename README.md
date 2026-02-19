@@ -9,3 +9,5 @@ DSA Array Questions Assignment - Python
 1.Reverse an array
 
 2.Find MAX and MIN element of an array
+
+3.Sum of elements in an array
