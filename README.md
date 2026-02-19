@@ -13,3 +13,7 @@ DSA Array Questions Assignment - Python
 3.Sum of elements in an array
 
 4.Second Largest element in an array
+
+5.Check if array is sorted or not
+
+6.Find pair in an array with target sum
