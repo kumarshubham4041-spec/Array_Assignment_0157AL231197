@@ -1,0 +1,10 @@
+rr = [1, 2, 2, 3, 3, 5]
+freq = {}
+ans=[]       
+for nums in arr:
+    freq[nums]= freq.get(nums,0)+1
+
+    for i,j in freq.items():
+        ans.append([i,j])
+            
+print(ans)
